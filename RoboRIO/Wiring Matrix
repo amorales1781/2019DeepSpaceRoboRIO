@@ -1,0 +1,40 @@
+CAN ID MATRIX:          Solenoids:
+
+-Motor 1: CAN ID 1      -Solenoid(0,1) --> Tilt Mechanism (0 = Tilt up & 1 = Tilt Down)
+-Motor 3: CAN ID 3      -Solenoid(2,3) --> Move Whole Collector (2 = Move Back & 3 = Move Foward)
+-Motor 2: CAN ID 2      -Solenoid(4,5) --> Hatch Collector (4 = Close Hatch & 5 = Open Hatch)
+
+-Motor 7: CAN ID 7           
+-Motor 8: CAN ID 8          
+-Motor 9: CAN ID 9        
+                            
+
+                    		   Top View
+                    	 ____________________________
+                    	|	     FRONT	     |
+                    	|		     	     |
+                    	|---------	    ---------|
+                    	|Motor 3 |     	    |Motor 7 |
+                    	|---------	    ---------|
+                    	|---------          ---------|
+                    	|Motor 1 |	    |Motor 8 |
+                    	|---------          ---------|
+                    	|---------	    ---------|
+                    	|Motor 2 |	    |Motor 9|
+                    	|---------          ---------|
+                    	|			     |
+                    	|			     |
+                    	|____________________________|
+                    	
+ -Front Lift Motor CAN ID 5
+ -Rear Lift Motor CAN ID 4
+ -Cargo Collector Motor: CAN ID 6
+ 
+ -Left Lift Wheel Motors: CAN ID 11
+ -Right Lift Wheel Motor: CAN ID 12
+
+PWM Matrix:
+ 0 = Camera Center Axis
+ 1 = Camera Tilting Axis
+ 
+ 

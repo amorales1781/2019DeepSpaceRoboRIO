@@ -1,0 +1,53 @@
+Roborio Documentation:
+_____________________
+- Roborio 'A'
+- Roborio 'X'
+- Roborio 'B'
+- Roborio 'C'
+- Roborio 'E'
+
+CAN ID:
+_____________________
+- CAN ID 1 (A) - CAN ID 1 (B)
+- CAN ID 2 (A) - CAN ID 2 (B)
+- CAN ID 3 (A) - CAN ID 3 (B)
+- CAN ID 4 (A) - CAN ID 4 (B)
+- CAN ID 5 (A) - CAN ID 5 (B)
+- CAN ID 6 (A) - CAN ID 6 (B)
+- CAN ID 7 (A) - CAN ID 7 (B)
+- CAN ID 8 (A) - CAN ID 8 (B)
+- CAN ID 9 (A) - CAN ID 9 (B)
+- CAN ID 10 (A) - CAN ID 10 (B)
+
+AP (Access Point Documentation)
+
+Syntax: 1781 [Letter]
+_______________________________
+
+-1781 A
+MAC: AC:86:74:B8:C2:35
+Serial: OM5PAC73301908
+
+-1781 F
+MAC: Unknown (Sticker fell off)
+Serial: Unknown (Sticker fell off)
+
+-1781 D
+MAC: AC:86:74:6E:AF:80
+Serial: OM5PAC62407880
+
+-1781 G
+MAC: AC:86:74:B8:C2:55
+Serial: OM5PAC733011906
+
+-1781 C
+MAC: AC:86:74:B8:C3:B5
+Serial: OM5PAC73301907
+
+-1781 X
+MAC: F8:D9:B8:04:20:20
+Serial: OM5PAC83201503
+
+-1781 B
+MAC: AC:86:74:66:C5:40
+Serial: OM5PAC619017771
